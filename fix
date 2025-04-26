@@ -226,7 +226,7 @@ mini.Font = "SourceSans"
 
 mini.Size = UDim2.new(0, 45, 0, 28)
 
-mini.Text = "เล็ก"
+mini.Text = "-"
 
 mini.TextSize = 40
 
@@ -244,7 +244,7 @@ mini2.Font = "SourceSans"
 
 mini2.Size = UDim2.new(0, 45, 0, 28)
 
-mini2.Text = "ขยาย"
+mini2.Text = "+"
 
 mini2.TextSize = 40
 
